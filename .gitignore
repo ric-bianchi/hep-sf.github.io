@@ -10,6 +10,7 @@ Gemfile.lock
 
 # Visual Studio Code
 .vscode/*
+*.code-workspace
 
 # Ruby bundle
 .bundle/
@@ -20,4 +21,4 @@ vendor/
 
 # common editor backups
 *~
-
+*.swp
